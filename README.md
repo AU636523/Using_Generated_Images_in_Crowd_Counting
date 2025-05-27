@@ -7,6 +7,8 @@ Because of these complications, a particular limiting factor is the lack of avai
 
 This paper will present one such technique, building on the PromptMix method to be introduced later. First, it will present related work to the subject at hand, whereafter it will present the methods used to boost datasets. The next section will describe the experimental setups for obtaining the results, which will be introduced and discussed in the section thereafter. Finally, we will conclude upon these results, and present possible future work.
 
+[Paper](Using_Generated_Images_in_Crowd_Counting.pdf)
+
 ## Figures 
 
 ### Pipeline overview
